@@ -5,4 +5,4 @@
 </p>
 
 ## I am Altair@Alcor
-![Views](https://komarev.com/ghpvc/?username=Altair-Alcor&color=bd93f9&style=for-the-badge)
+![Views](https://komarev.com/ghpvc/?username=Altair-Alcor&color=red)
